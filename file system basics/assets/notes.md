@@ -1,7 +1,8 @@
 #This is a new file
+====================
 
-We can write text to a file with fs.writeFile
+ES6 Template Strings are cool.  They honor whitespace.
 
-* fs.readdir
-* fs.readFile
-* fs.writeFile
+* Template Strings
+* Node File System
+* Readline CLIs
